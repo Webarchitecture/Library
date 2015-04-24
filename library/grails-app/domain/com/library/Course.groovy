@@ -9,7 +9,7 @@ String description
 
 String toString(){
 
-"$title, $code"
+"$title, $code, $tutor, $department, $description"
 }
 
     static constraints = {
